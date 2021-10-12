@@ -1,0 +1,63 @@
+{
+    "peliculas":[
+        {
+          "foto": "url(https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CAA558F003FA7C1BBEBDDB617774983BA335E59680304B3536F43096C021A261/scale?width=1200&aspectRatio=1.78&format=jpeg)",
+          "nombre": "Avengers End Game",
+          "descripcion": "Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.",
+          "categoria1": "Acción",
+          "categoria2": "Ciencia Ficción",
+          "id": ""
+        },
+        {
+          "foto": "url(https://estaticos-cdn.elperiodico.com/clip/ebc2f698-ee0e-43fb-ba47-d9c3fe44982f_alta-libre-aspect-ratio_default_0.jpg)",
+          "nombre": "El Señor de los Anillos",
+          "descripcion": "La novela narra el viaje del protagonista principal, Frodo Bolsón, hobbit de la Comarca, para destruir el Anillo Único y la consiguiente guerra que provocará el enemigo para recuperarlo, ya que es la principal fuente de poder de su creador, el Señor oscuro, Sauron.",
+          "categoria1": "Novela",
+          "categoria2": "Literatura fantástica",
+          "id": ""
+        },
+        {
+          "foto": "url(https://i1.wp.com/hipertextual.com/wp-content/uploads/2021/04/Godzilla-vs-kong-portada-scaled.jpg?fit=1200%2C839&ssl=1)",
+          "nombre": "Godzilla vs Kong",
+          "descripcion": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad.",
+          "categoria1": "Ciencia ficción",
+          "categoria2": "Acción",
+          "id": ""
+        },
+        {
+          "foto": "url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2019/07/hipertextual-rey-leon-2019-original-pero-peor-2019588919.jpg?fit=1200%2C675&ssl=1)",
+          "nombre": "El Rey León",
+          "descripcion": "Tras la muerte de su padre, Simba vuelve a enfrentar a su malvado tío, Scar, y reclamar el trono de rey.",
+          "categoria1": "Infantil",
+          "categoria2": "Musical" ,
+          "id": ""
+        }, 
+        {
+          "foto": "url(https://cdn.pocket-lint.com/r/s/1200x/assets/images/150401-tv-feature-harry-potter-image1-vpdnsqfrou.jpg)",
+          "nombre": "Harry Potter",
+          "descripcion": "Las aventuras del joven aprendiz de magia y hechicería Harry Potter y sus amigos Hermione Granger y Ron Weasley, durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería.",
+          "categoria1": "Novela",
+          "categoria2": "Ciencia ficción" ,
+          "id": ""
+        },
+        {
+          "foto": "url(https://images-1.wuaki.tv/system/shots/195361/original/snapshot-1590664458.jpeg)",
+          "nombre": "Iron Man 1",
+          "descripcion": "Un empresario millonario construye un traje blindado y lo usa para combatir el crimen y el terrorismo.",
+          "categoria1": "Acción",
+          "categoria2": "Aventura" ,
+          "id": ""
+        }  
+      ],
+      "urlsCategory":[
+        {
+        "urlAccion":"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXq5YYA_MGmeRr-MtvNEEgGa4sXDwF0keFg&usqp=CAU)",  
+        "urlCienciaFiccion": "url(https://as.com/meristation/imagenes/2021/07/26/reportajes/1627291589_319926_1627292197_noticia_normal.jpg)",
+        "urlNovela": "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9iKTfvYVRsWObvfHAk9svWcaSu6KceWm68gNJOPtk9HkA8hNH9pxMn65QEozyw_A53g&usqp=CAU",
+        "urlInfantil": "url(https://isabella0124.files.wordpress.com/2013/01/pinocho800-04.jpg)",
+        "urlMusical": "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKmDvNB-RI_qOjNXSPO_toTrWiZleEuLy4apiNvaILu-i3eE22OOc8qrJwY_8QZ59_lg&usqp=CAU)",
+        "urlAventura": "url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03hTPEZqv1l3mkdETNvIiDBOnnwQsxM5eNXa7rB930SNUmgQNK4e5z7GpyUo3a3mVb3A&usqp=CAU)"
+      }
+
+      ]
+}
